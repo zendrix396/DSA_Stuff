@@ -1,3 +1,0 @@
-Student ID: 548
-Name: Aditya Singh
-Grade: 97.2
