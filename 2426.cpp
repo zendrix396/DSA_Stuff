@@ -16,9 +16,6 @@ and now we just have to find num1[i]-num2[i]<=num1[j]-num2[j]+diff
 
 then we do merge sort (recursive) and also creae a count function incrementor
 
-
-
-
 */
 
 #include <iostream>
