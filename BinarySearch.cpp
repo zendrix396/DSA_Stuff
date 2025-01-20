@@ -21,7 +21,7 @@ int binarySearch(int n, vector<int> list){
 
 int main(){
     vector<int> vec;
-    int len,n;cl
+    int len,n;
     cin>>len;
     for (int i=0;i<len;i++){
         int k;
